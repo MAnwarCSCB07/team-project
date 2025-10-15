@@ -18,37 +18,46 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+* We will use Discord as our primary communication channel and Instagram as a secondary platform.
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+*Team member will respond to messages within 10 hours on weekdays.
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+* Teammates should notify for any tutorials (where marked activities are), any marked assignments, or any projects that they are missing. 
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* Team memmbers should be completing work on time, collaboratively if needed, with code that meets or exceeds the standards. If members aren't able to complete their work/tasks, need help or require rubber-ducking they must notify at least 36 hours in advance. For all decisions, every team member should be consulted, and all ideas should be noted (even if they are not used).
 
 ---
 
 ### [Other Categories of norms and expectations go here]
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
+- Direct commits to the `main` branch are strictly prohibited. Regularly synchronize your branch with `main` to maintain currency.
+- All deliverables must be completed on schedule, fully tested, and compliant with the agreed quality standards.  
+- Every Pull Request requires review and approval from at least two team members.  
+- Resolve merge conflicts only after consulting the original author of the conflicting code.  
+- Announce any new feature before implementation by documenting it in the project README.
+- All code must include comments (at minimum, brief explanations) to aid comprehension.  
+- Do not commit environment or build-related files (e.g., `.idea`, `target/`). Such files must remain excluded via `.gitignore`.
+- Maintain a level of clean and quality code.
+- **If you use AI** leave a comment mentioning that AI was used.
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+- Decisions are made by consensus, or majority (by vote).
 
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+- Conflict will be resolved through private discussion between the conflicting members, then adding someone else on the team, and finally, if required, requesting a TA to intervene.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+- All members agree to be honest about their work, and to provide honest, fair peer evaluations
+- Lack of participations or inability to meet expecations will results in lower peer evaluation scores.
+- Work must be done at least 6 hours before the deadline (unless approved by other members).
 
 ---
 
@@ -56,6 +65,13 @@ This contract sets out shared expectations and commitments for how our team will
 
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
-Team Member Signatures:
 
+Team Member Signature:
 (type names here)
+- 
+- 
+- 
+- 
+- 
+
+
